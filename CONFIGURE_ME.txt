@@ -1,0 +1,19 @@
+SMILE COUNTER WEBSITE — CHANGE THIS BEFORE PUBLISHING
+
+1. Replace every occurrence of:
+   smilecounter.support@gmail.com
+
+   with an email address you actually control and monitor.
+
+2. Search all .html files for smilecounter.support@gmail.com before publishing.
+
+3. Optional: if you later register a business/company, add the legal developer name and business contact details to the Privacy Policy, Terms, and Contact page as appropriate.
+
+4. The current Privacy Policy assumes the app:
+   - does not upload camera images or face-tracking data to developer servers;
+   - does not use third-party analytics or advertising SDKs;
+   - does not require a developer account/login;
+   - stores smile history/settings locally;
+   - uses Apple StoreKit for subscription billing.
+
+   If the app changes, update the policy and App Store Connect privacy answers before release.
